@@ -1,4 +1,4 @@
-Business News Agent
+**Business News Agent**
 
 An AI-powered news monitoring agent that collects the latest business, technology, and regulatory news from selected sources, analyzes their relevance, and delivers concise email briefings on a recurring schedule.
 
