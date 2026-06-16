@@ -1,5 +1,5 @@
 FEEDS = [
-    "https://feeds.nos.nl/nosnieuwseconomie",
-    "https://tech.eu/feed/",
-    "https://www.dezaak.nl/",
+"https://www.dezaak.nl/feed",    
+"https://feeds.nos.nl/nosnieuwseconomie",
+"https://tech.eu/feed/",
 ]
